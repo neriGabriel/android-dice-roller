@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+
+    <!--Activity Main-->
+    <string name="text_view_message">Hi Android</string>
+    <string name="button_message">ROLL</string>
+</resources>
